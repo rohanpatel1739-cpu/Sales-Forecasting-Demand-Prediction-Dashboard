@@ -1,0 +1,17 @@
+Product_ID,Product_Name,Category
+P001,Laptop,Electronics
+P002,Mobile,Electronics
+P003,Tablet,Electronics
+P004,Printer,Electronics
+P005,Office Chair,Furniture
+P006,Desk,Furniture
+P007,Bookshelf,Furniture
+P008,Microwave,Home Appliances
+P009,Refrigerator,Home Appliances
+P010,Air Conditioner,Home Appliances
+P011,Shoes,Fashion
+P012,T-Shirt,Fashion
+P013,Jacket,Fashion
+P014,Notebook,Office Supplies
+P015,Pen Set,Office Supplies
+P016,Paper Ream,Office Supplies
