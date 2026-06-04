@@ -4,11 +4,11 @@
 
 ### 📌 Page 1: Executive Dashboard
 
-![Page 1 Dashboard](images/page1.png)
+![Page 1 Dashboard](images/dashboard_page1.png)
 
 ### 📌 Page 2: Demand & Inventory Dashboard
 
-![Page 2 Dashboard](images/page2.png)
+![Page 2 Dashboard](images/dashboard_page2.png)
 
 ## 🚀 Project Overview
 This project is an end-to-end Data Analytics solution designed to analyze historical sales data and predict future demand. It helps businesses improve inventory planning, sales forecasting, and decision-making using Power BI, SQL, and DAX.
