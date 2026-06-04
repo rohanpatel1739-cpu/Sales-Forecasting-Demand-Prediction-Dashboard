@@ -1,0 +1,29 @@
+SQL ANALYSIS INSIGHTS
+
+1. Total Revenue Generated:
+₹6.17 Billion
+
+2. Total Units Sold:
+478,097 Units
+
+3. Top Performing Region:
+West Region (₹1.31 Billion)
+
+4. Best Performing Category:
+Electronics (₹2.61 Billion)
+
+5. Highest Demand Products:
+Jacket
+Microwave
+Paper Ream
+Mobile
+T-Shirt
+
+6. Strongest Season:
+Summer (₹1.53 Billion)
+
+7. Forecast Error:
+6.52%
+
+8. Business Conclusion:
+Electronics and Home Appliances drive the majority of revenue while Summer shows the strongest seasonal demand.
